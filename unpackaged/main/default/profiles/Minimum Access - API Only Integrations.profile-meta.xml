@@ -1163,6 +1163,9 @@
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>Animals_at_the_Zoo__c-Animals at the Zoo Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>ApiAnomalyEventStore-API Anomaly Event Store Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
