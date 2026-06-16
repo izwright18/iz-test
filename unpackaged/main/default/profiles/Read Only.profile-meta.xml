@@ -179,6 +179,21 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Animals_at_the_Zoo__c.Geese__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Animals_at_the_Zoo__c.Lions__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Animals_at_the_Zoo__c.Rhino__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Amphibians__c.Checks_Passed__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2169,6 +2184,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Pets__c.Furry__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Pets__c.does_the_animal_have_wings__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Problem.Category</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -3297,6 +3322,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>AlternativePaymentMethod-Alternative Payment Method Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Animals_at_the_Zoo__c-Animals at the Zoo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ApiAnomalyEventStore-API Anomaly Event Store Layout</layout>
